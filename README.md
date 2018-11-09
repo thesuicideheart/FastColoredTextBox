@@ -16,3 +16,7 @@ Nuget package https://www.nuget.org/packages/FCTB/
 ----------------
 You can help me to develop free components! <br/>
 My Skrill: p_torgashov[at]ukr.net
+
+
+Forked by: TheSuicideHeart
+Used for: customed text box. 
